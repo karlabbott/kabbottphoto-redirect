@@ -1,4 +1,3 @@
-
 {
   "routes": [
     {
@@ -13,9 +12,8 @@
     },
     {
       "route": "/developing-black-and-white-film-with-d-23",
-      "redirect": "https://google.com",
+      "redirect": "https://medium.com/@karl1_65867/developing-black-and-white-film-with-d-23-ea89610ea5e0",
       "statusCode": 301
     }
   ]
 }
-

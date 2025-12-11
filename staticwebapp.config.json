@@ -2,12 +2,17 @@
   "routes": [
     {
       "route": "/c-41-with-kodak-flexicolor-at-home",
-      "redirect": "https://medium.com/@yourusername/post1",
+      "redirect": "https://medium.com/@karl1_65867/c-41-with-kodak-flexicolor-at-home-4d82a8711c23",
       "statusCode": 301
     },
     {
       "route": "/developing-black-and-white-film-with-d-23",
       "redirect": "https://medium.com/@karl1_65867/developing-black-and-white-film-with-d-23-ea89610ea5e0",
+      "statusCode": 301
+    },
+    { 
+      "route": "/developing-black-and-white-film-with-kodak-xtol",
+      "redirect": "https://medium.com/@karl1_65867/developing-black-and-white-film-with-kodak-xtol-775fd842adc9",
       "statusCode": 301
     }
   ]

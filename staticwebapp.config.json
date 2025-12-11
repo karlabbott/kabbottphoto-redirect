@@ -1,11 +1,6 @@
 {
   "routes": [
     {
-      "route": "/",
-      "redirect": "https://glass.photo/kabbottphoto/series",
-      "statusCode": 301
-    },
-    {
       "route": "/c-41-with-kodak-flexicolor-at-home",
       "redirect": "https://medium.com/@yourusername/post1",
       "statusCode": 301
